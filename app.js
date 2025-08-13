@@ -13,7 +13,7 @@ console.log('Exercise 1 Result:', maxOfTwoNumbers(11, 9));
 
 //exercise 2:
 const isAdult = (age) => {
-    if (age => 18) {
+    if (age >= 18) {
      return "adult"
     } else {
         return "minor"
@@ -111,3 +111,23 @@ function basicCalculator(num1, num2, operation) {
 }
 
 console.log("Exercise 9 Result:", basicCalculator(10, 5, "subtract"));
+
+
+
+//exercise 10:
+const calculateGrade (A, B, C, D, F) => {
+    IF (A=>90) {
+        return A;
+        if else (B===80 && =<89) {
+            return B
+
+        }
+    }
+}
+
+
+
+const calories = 1500;
+if (calories=>1500) {
+    console.log ("stop eating please")
+}
